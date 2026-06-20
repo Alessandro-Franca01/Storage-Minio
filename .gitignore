@@ -1,0 +1,8 @@
+# Credenciais — NUNCA versionar
+.env
+
+# Volume de dados do PostgreSQL
+data/
+
+# JSONs gerados pelo Java 7 (gerados automaticamente, não pertencem ao git)
+json-input/*.json
